@@ -16,3 +16,7 @@ docker exec -it {容器Id} kafka-topics.sh --list --zookeeper localhost:2181
 
 说明：这里的 zookeeper 地址写法固定为 localhost:2181，因为这个Docker内部自启动了 zookeeper 不需要外部环境支持
 ```
+- Kafka快捷使用脚本
+```
+./local-kafka-manager.sh 
+```
