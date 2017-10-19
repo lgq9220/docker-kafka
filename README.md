@@ -1,7 +1,7 @@
-# docker-kafka
-快速部署Kafka，适用于本地开发测试环境
+# 项目说明
+该Docker用于快速部署Kafka，适用于本地开发测试，学习环境，切勿上线使用。
 
-# Usage
+# 使用帮助
 - 启动 Kafka:
 ```
 docker-compose up -d
