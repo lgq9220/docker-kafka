@@ -24,6 +24,10 @@ docker-compose up --force-recreate -d
 ```bash
 docker-compose rm -svf
 ```
+- 访问KafkaManager
+```
+http://localhost:9000
+```
 
 ## 最后
 欢迎提PR，不定时更新
