@@ -1,4 +1,4 @@
-> 项目说明
+## 项目说明
 一站式Kafka环境部署，可用于本地开发环境或者测试环境，如果用于生产环境，请先确保服务器安全。
 
 > 特性
@@ -25,5 +25,5 @@ docker-compose up --force-recreate -d
 docker-compose rm -svf
 ```
 
-> 最后
+## 最后
 欢迎提PR，不定时更新
