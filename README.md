@@ -1,3 +1,6 @@
+“[docker-kafka] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial”
+<!--<a href="https://tracking.gitads.io/?repo=docker-kafka"> <img src="https://images.gitads.io/docker-kafka" alt="GitAds"/> </a>-->
+
 ## 项目说明
 一站式Kafka环境部署，可用于本地开发环境或者测试环境，如果用于生产环境，请先确保服务器安全。
 
